@@ -1,8 +1,7 @@
 # Loan-prediction-using-ML
 
 • In this project, I successfully developed a machine learning model
-to predict loan approval outcomes using the Support Vector Ma-
-chine (SVM) algorithm.
+to predict loan approval outcomes using the Support Vector Machine (SVM) algorithm.
 
 
 • The goal of the project was to assist financial institutions in assess-
